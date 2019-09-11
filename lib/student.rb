@@ -10,6 +10,8 @@ end
     knowledge << string
   end
   
-  def first_name 
-    "Steve"
+  def first_name(student)
+    student.first_name
   end
+  
+  
