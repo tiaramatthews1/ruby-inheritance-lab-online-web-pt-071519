@@ -11,7 +11,11 @@ end
   end
   
   def first_name(student)
-    student.first_name
+    student.first_name.
+  end
+  
+  def last_name(student)
+    student.last_name.
   end
   
   
