@@ -9,3 +9,7 @@ end
   def learn(string)
     knowledge << string
   end
+  
+  def first_name 
+    "Steve"
+  end
