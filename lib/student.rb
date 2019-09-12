@@ -18,4 +18,12 @@ end
     student.last_name.
   end
   
+  def learn 
+    student.learn.
+  end
+  
+  def knowledge
+    student.learn
+  end
+  
   
