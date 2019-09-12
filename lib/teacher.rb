@@ -9,3 +9,7 @@ class Teacher < User
                "bash Ruby rvm update certs"]
 end
 
+def teach
+    KNOWLEDGE.sample
+  end
+end
